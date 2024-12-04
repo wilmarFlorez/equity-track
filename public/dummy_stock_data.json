@@ -1,40 +1,116 @@
 {
   "stocks": [
     {
+      "id": 1,
       "symbol": "AAPL",
       "name": "Apple Inc.",
       "price": 175.64,
-      "daily_change": 1.27
+      "dailyChange": 1.27
     },
     {
+      "id": 2,
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
       "price": 317.94,
-      "daily_change": -0.89
+      "dailyChange": -0.89
     },
     {
+      "id": 3,
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
       "price": 2843.42,
-      "daily_change": 2.12
+      "dailyChange": 2.12
     },
     {
+      "id": 4,
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
       "price": 3457.67,
-      "daily_change": -1.45
+      "dailyChange": -1.45
     },
     {
+      "id": 5,
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
       "price": 734.09,
-      "daily_change": 3.85
+      "dailyChange": 3.85
     },
     {
+      "id": 6,
       "symbol": "FB",
       "name": "Meta Platforms, Inc.",
       "price": 341.37,
-      "daily_change": -0.77
+      "dailyChange": -0.77
+    },
+    {
+      "id": 7,
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 482.5,
+      "dailyChange": 2.67
+    },
+    {
+      "id": 8,
+      "symbol": "NFLX",
+      "name": "Netflix, Inc.",
+      "price": 445.25,
+      "dailyChange": -1.12
+    },
+    {
+      "id": 9,
+      "symbol": "DIS",
+      "name": "The Walt Disney Company",
+      "price": 92.31,
+      "dailyChange": 0.89
+    },
+    {
+      "id": 10,
+      "symbol": "BABA",
+      "name": "Alibaba Group Holding Limited",
+      "price": 121.54,
+      "dailyChange": -0.45
+    },
+    {
+      "id": 11,
+      "symbol": "ORCL",
+      "name": "Oracle Corporation",
+      "price": 112.78,
+      "dailyChange": 1.34
+    },
+    {
+      "id": 12,
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "price": 57.24,
+      "dailyChange": -0.78
+    },
+    {
+      "id": 13,
+      "symbol": "PYPL",
+      "name": "PayPal Holdings, Inc.",
+      "price": 189.12,
+      "dailyChange": 0.56
+    },
+    {
+      "id": 14,
+      "symbol": "ADBE",
+      "name": "Adobe Inc.",
+      "price": 527.34,
+      "dailyChange": 2.43
+    },
+    {
+      "id": 15,
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "price": 54.89,
+      "dailyChange": -0.24
+    },
+    {
+      "id": 16,
+      "symbol": "SHOP",
+      "name": "Shopify Inc.",
+      "price": 1228.45,
+      "dailyChange": 3.78
     }
   ]
 }
