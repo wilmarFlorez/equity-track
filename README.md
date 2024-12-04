@@ -31,11 +31,12 @@ yarn start        # Start the app with expo follow the instructions after run th
 yarn android      # Start the app in an Android emulator
 yarn ios          # Start the app in an iOS emulator
 
+4: **Code Qualit**:
+ESLint Expo: Linter for maintaining code quality.
+Prettier: Code formatter for consistent styling.
+
 ## Testing
 The project uses Jest for unit testing. You can run the tests like this:
 
 yarn test
 
-4: **Code Qualit**:
-ESLint Expo: Linter for maintaining code quality.
-Prettier: Code formatter for consistent styling.
