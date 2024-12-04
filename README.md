@@ -14,8 +14,8 @@ To get started with development or testing the app, follow these steps:
 
 1. **Clone the repository**:
 
-   ```bash
-   git clone <REPOSITORY_URL>
+   ```bash```
+   git clone https://github.com/wilmarFlorez/equity-track.git
    cd equity-track
 
 
@@ -23,11 +23,11 @@ To get started with development or testing the app, follow these steps:
 
 Make sure you have Node.js and Yarn installed. Then, install the project dependencies:
 
-yarn install
+```yarn install```
 
 
 3: **Start the project**:
-yarn start        # Start the app with expo follow the instructions after run this script
+yarn start        # Start the app with Expo, follow the instructions that appear after running this command.
 yarn android      # Start the app in an Android emulator
 yarn ios          # Start the app in an iOS emulator
 
@@ -38,5 +38,5 @@ Prettier: Code formatter for consistent styling.
 ## Testing
 The project uses Jest for unit testing. You can run the tests like this:
 
-yarn test
+```yarn test```
 
