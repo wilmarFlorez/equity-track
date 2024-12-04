@@ -12,28 +12,33 @@ Equity Track is a mobile application designed to track stock market performance.
 
 To get started with development or testing the app, follow these steps:
 
-1. **Clone the repository**:
+### 1. **Clone the repository**:
 
    ```bash```
    git clone https://github.com/wilmarFlorez/equity-track.git
    cd equity-track
 
 
-2: **Install dependencies**:
+### 2: **Install dependencies**:
 
 Make sure you have Node.js and Yarn installed. Then, install the project dependencies:
 
 ```yarn install```
 
 
-3: **Start the project**:
-yarn start        # Start the app with Expo, follow the instructions that appear after running this command.
-yarn android      # Start the app in an Android emulator
-yarn ios          # Start the app in an iOS emulator
+#### 3: **Start the project**:
+- `yarn start`  
+  Start the app with Expo, follow the instructions that appear after running this command.
+  
+- `yarn android`  
+  Start the app in an Android emulator.
 
-4: **Code Qualit**:
-ESLint Expo: Linter for maintaining code quality.
-Prettier: Code formatter for consistent styling.
+- `yarn ios`  
+  Start the app in an iOS emulator.
+
+### 4: **Code Qualit**:
+- **ESLint Expo**: Linter for maintaining code quality.
+- **Prettier**: Code formatter for consistent styling.
 
 ## Testing
 The project uses Jest for unit testing. You can run the tests like this:
